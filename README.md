@@ -1,6 +1,6 @@
 # My Personal & Tech Playground ⚡
 
-Hello guuuuys! Whoever you are here? Or maybe you are from the future because I got 100k subscribers and you are curious? (I am manifesting to be a tech content creator like what do you mean people are doing cool things because of me? Yeah! I am inspired—of course maybe I inspired them—yeah still anyway—back to the topic).
+Hello guuuuys! Whoever you are here? Or maybe you are from the future because I got 100 subscribers and you are curious? (I am manifesting to be a tech content creator like what do you mean people are doing cool things because of me? Yeah! I am inspired—of course maybe I inspired them—yeah still anyway—back to the topic).
 
 ---
 
