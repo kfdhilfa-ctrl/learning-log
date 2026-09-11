@@ -58,7 +58,8 @@ I also did OverTheWire (it was great! What do you mean I don't need to move my f
 
 Right now around September: I am on my way to build a rocket with my ESP32 which I bought! Check my **`embedded-systems-journal`** repository for more info.
 
-This is gonna be my learning log / personal log. I might talk about life skills, entertainment, or random deep thoughts later (like what if my black is someone else's blue?), but this space is mostly for tracking my builds and ideas.
+This is gonna be my learning log / personal log.
+I might talk about life skills, entertainment, or random deep thoughts later (like what if my black is someone else's blue?), but this space is mostly for tracking my builds and ideas.
 And btw, I am doing all of this while being in 11th grade and drowning in syllabus. So yeah, I may have only a little time for some of these things, and I may or may not continue with everything. But look inside to see what all I am doing outside my school syllabus! It will be short or long, dry or full of Red Bull energy! It depends. Enjoy reading through (and I am pleading—skip past Day 65!).
 
 ---
