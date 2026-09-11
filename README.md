@@ -1,4 +1,4 @@
-# My Personal & Tech Sandbox ✨
+# My Personal & Tech Playground ⚡
 
 Hello guuuuys! Whoever you are here? Or maybe you are from the future because I got 100k subscribers and you are curious? (I am manifesting to be a tech content creator like what do you mean people are doing cool things because of me? Yeah! I am inspired—of course maybe I inspired them—yeah still anyway—back to the topic).
 
@@ -22,25 +22,35 @@ So I decided to change: **Day 0 to Day 64 is what AI wrote**—I sent him notes,
 
 ### Who Am I & How This Started
 
-I am currently 16 years old (when I started this, I was 15(this repository i mean)). My main passion is tech, but honestly, I am interested in anything that makes me wonder or curious—whether it is code, life skills, entertainment, or random deep thoughts (like what if my black is someone else's blue? Yeah I am gonna look into that later).
+I am currently 16 years old (when I started this repository, I was 15). My main passion is tech, but honestly, I am interested in anything that makes me wonder—I am mainly curious about everything working around me and I just want to know how and why things work. 
 
-My process of trying to learn programming freely with whatever resources were available to me started right after COVID, when we went to where my dad was working in the GCC. I got hold of his old laptop and I tried to learn Java—and wtf, when I typed something, it gave me "Hello World" on the screen. And no, there was no human in the background and we had no internet then! 
+If you are wondering why tech? Growing up, we had this huge CRT box TV at home that all my aunties used to crowd around to watch. But around the age of 3 to 5, my mom had this little red phone. I used to plead with her to unlock it and hand it over because it had YouTube. That was where the crazy thoughts started: what do you mean the TV is so damn big, but this tiny red brick in my hand is the only one with YouTube (my go-to spot back then)? That spark grew and it just never stopped.
 
-Later, after my 7th grade, after winning a scholarship, my dad bought me an i3 laptop with his hard work money along with a Python book I asked for—don't ask me the book name though. 
+In school, my questions were never really voiced—it was super academic-focused, not gonna lie. But during that time, I had so many thoughts running through my head. Even though I know I can't figure out everything in the universe, I decided: *let's at least learn everything that we can.*
 
-And let me tell you... If you are serious about programming and self-taught? That book was shit! It taught me what data types and variables are, covered half of it, and that was it. It didn't teach me logic or algorithms or how it all stacks up—no use talking about spilled milk anyway.
+So yeah, when things are related to tech, I get this crazy spirit like I am modeling for a Monster Energy drink ad.
+
+---
+
+### The Self-Taught Journey & The i3 Laptop
+
+My process of trying to learn programming freely with whatever resources were available started right after COVID, when we went to where my dad was working in the GCC. I got hold of his old laptop and tried to learn Java—and wtf, when I typed something, it gave me "Hello World" on the screen. And no, there was no human in the background and we had no internet then! 
+
+Later, after my 7th grade, after winning a scholarship, my dad bought me an i3 laptop with his hard-earned money along with a Python book I asked for—don't ask me the book name though. 
+
+And let me tell you... If you are serious about programming and self-taught? That book was shit! It taught me what data types and variables are, covered half of it, and that was it. It didn't teach me logic, algorithms, or how it all stacks up—no use talking about spilled milk anyway.
 
 ---
 
 ### CS, Networking & The Internet Mind-Melt
 
-I did CS50 Week 0 before, then realized I have CS in my 11th curriculum and I would get what I needed there. It is not about certification in general—but what skills you acquire and what all you can do with it and how much you can share what you learned. My CS subject in school was good because I got a great teacher + textbook!
+I did CS50 Week 0 before, then realized I have CS in my 11th-grade curriculum and I would get what I needed there. It is not about certification in general—it's about what skills you acquire, what you can build with them, and how much you can share. My CS class in school was great because I got an amazing teacher + textbook!
 
-And me learning networking: you know what, I thought internet traveled through the air... Yeah I learned about TCP/IP protocol, DNS, but internet still traveled through air for me. No matter how much I forced myself to sit through freeCodeCamp's networking course on YouTube, I was still in WTF awe. 
+And me learning networking: I genuinely thought the internet traveled through the air. I learned about TCP/IP protocols and DNS, but in my head, it was still traveling through the sky. No matter how much I forced myself to sit through freeCodeCamp's networking course on YouTube, I was still in total awe. 
 
-And it was not until recently when I watched this TED talk on what the internet actually is that my mindset drastically changed! What the fuck do you mean by internet travels through lines and there are actually physical lines for that even under water/sea? Trust me when I say I was in another world 2 weeks post that because WTF. (My mom really knows my awe and now she can even be a networking teacher with all my "well mom, internet is wires...").
+It was not until recently, when I watched a TED talk on what the internet actually is, that my mindset drastically changed. What the fuck do you mean the internet travels through lines, and there are physical cables under the ocean? Trust me when I say I was in another world for two weeks post that because WTF. (My mom really knows my awe because now she can basically be a networking teacher with all my "well mom, internet is wires...").
 
-I also did OverTheWire (it was great! What do you mean I don't need to move my fingers across the touchpad, but just type and it moves directories?) with the help of Linux Journey (best for theory).
+I also did OverTheWire (it was great! What do you mean I don't need to move my fingers across the touchpad, but just type and it moves directories?) with the help of Linux Journey for theory.
 
 ---
 
@@ -48,13 +58,13 @@ I also did OverTheWire (it was great! What do you mean I don't need to move my f
 
 Right now around September: I am on my way to build a rocket with my ESP32 which I bought! Check my **`embedded-systems-journal`** repository for more info.
 
-So yeah—this is gonna be my learning log / personal log. Will be short or will be long, will be dry or will be Red Bull! It depends. Enjoy reading through (and I am pleading—skip past Day 65!).
+This is gonna be my learning log / personal log. I might talk about life skills, entertainment, or random deep thoughts later (like what if my black is someone else's blue?), but this space is mostly for tracking my builds and ideas. It will be short or long, dry or full of Red Bull energy! It depends. Enjoy reading through (and I am pleading—skip past Day 65!).
 
 ---
 
-⚡ **Rule of the Log:** Figuring out life and tech with whatever I have right here, right now.
+⚡ **Rule of the Log:** Figuring out how the world works with whatever I have right here, right now.
 
-Look inside my repository folders for day 65+ entries!
+Look inside my repository folders for Day 65+ entries!
 
 Yours dearly,  
 **Me! ⚡**
