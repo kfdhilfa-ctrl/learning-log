@@ -38,7 +38,7 @@ I did CS50 Week 0 before, then realized I have CS in my 11th curriculum and I wo
 
 And me learning networking: you know what, I thought internet traveled through the air... Yeah I learned about TCP/IP protocol, DNS, but internet still traveled through air for me. No matter how much I forced myself to sit through freeCodeCamp's networking course on YouTube, I was still in WTF awe. 
 
-And it was not until recently when I watched this TED talk on what the internet actually is that my mindset drastically changed! What the fuck do you mean by internet travels through lines and there are actually physical lines for that even under water/sea? Trust me when I say I was in another world 2 weeks post that because WTF. (My mom really knows my awe because now she can be a networking teacher not gonna lie with all my "well mom, internet is wires...").
+And it was not until recently when I watched this TED talk on what the internet actually is that my mindset drastically changed! What the fuck do you mean by internet travels through lines and there are actually physical lines for that even under water/sea? Trust me when I say I was in another world 2 weeks post that because WTF. (My mom really knows my awe and now she can even be a networking teacher with all my "well mom, internet is wires...").
 
 I also did OverTheWire (it was great! What do you mean I don't need to move my fingers across the touchpad, but just type and it moves directories?) with the help of Linux Journey (best for theory).
 
