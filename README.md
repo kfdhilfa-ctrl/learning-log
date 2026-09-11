@@ -22,7 +22,7 @@ So I decided to change: **Day 0 to Day 64 is what AI wrote**—I sent him notes,
 
 ### Who Am I & How This Started
 
-I am currently 16 years old (when I started I was 15). My main passion is tech, but honestly, I am interested in anything that makes me wonder or curious—whether it is code, life skills, entertainment, or random deep thoughts (like what if my black is someone else's blue? Yeah I am gonna look into that later).
+I am currently 16 years old (when I started this, I was 15(this repository i mean)). My main passion is tech, but honestly, I am interested in anything that makes me wonder or curious—whether it is code, life skills, entertainment, or random deep thoughts (like what if my black is someone else's blue? Yeah I am gonna look into that later).
 
 My process of trying to learn programming freely with whatever resources were available to me started right after COVID, when we went to where my dad was working in the GCC. I got hold of his old laptop and I tried to learn Java—and wtf, when I typed something, it gave me "Hello World" on the screen. And no, there was no human in the background and we had no internet then! 
 
