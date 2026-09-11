@@ -70,7 +70,10 @@ And btw, I am doing all of this while being in 11th grade and drowning in syllab
 
 Look inside my repository folders for Day 65+ entries!
 
-And seriously... if you don't want to read the old AI-generated stuff, **please skip past Day 65.**
+well i may change in future, yeah-how can we know! but this is what i'm today!
 
-Yours dearly,  
+So enjoy reading! Well... looking through.
+
+Yours truly and dearly,  
 **Me! ⚡**
+And seriously... if you don't want to read the old AI-generated stuff, **please skip past Day 65.**
