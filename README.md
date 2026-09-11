@@ -24,9 +24,9 @@ So I decided to change: **Day 0 to Day 64 is what AI wrote**—I sent him notes,
 
 I am currently 16 years old (when I started this repository, I was 15). My main passion is tech, but honestly, I am interested in anything that makes me wonder—I am mainly curious about everything working around me and I just want to know how and why things work. 
 
-If you are wondering why tech? Growing up, we had this huge CRT box TV at home that all my aunties used to crowd around to watch. But around the age of 3 to 5, my mom had this little red phone. I used to plead with her to unlock it and hand it over because it had YouTube. That was where the crazy thoughts started: what do you mean the TV is so damn big, but this tiny red brick in my hand is the only one with YouTube (my go-to spot back then)? That spark grew and it just never stopped.
+If you are wondering why tech? Growing up, we had this huge huge box TV at home that all my aunties used to crowd around to watch. But around the age of 3 to 5, my mom had this little red phone and i used to plead with her to unlock it and hand it over because it had YouTube. That was where the crazy thoughts started( from which i remember btw) like wdym by the TV being so big but no youtube but my moms phone so little had it? That spark grew and it just never stopped.
 
-In school, my questions were never really voiced—it was super academic-focused, not gonna lie. But during that time, I had so many thoughts running through my head. Even though I know I can't figure out everything in the universe, I decided: *let's at least learn everything that we can.*
+In school, my questions were never really voiced—my school was super academic-focused tbh. But during that time, I had so many thoughts running through my head. Even though I can't figure out everything in the universe, I decided: *let's at least learn everything that we can.*
 
 So yeah, when things are related to tech, I get this crazy spirit like I am modeling for a Monster Energy drink ad.
 
